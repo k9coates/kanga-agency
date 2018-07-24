@@ -1,0 +1,14 @@
+{
+  "name": "kanga-agency",
+  "version": "1.0.0",
+  "description": "kanga agency website",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Kristen Coates",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
